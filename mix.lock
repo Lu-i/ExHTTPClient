@@ -1,0 +1,7 @@
+%{"exjsx": {:git, "git://github.com/talentdeficit/exjsx.git", "d3572b488f10e3b83fadb1fc595fc87f84c35809", []},
+  "hackney": {:hex, :hackney, "1.0.6"},
+  "httpoison": {:hex, :httpoison, "0.6.0"},
+  "idna": {:hex, :idna, "1.0.2"},
+  "json": {:git, "git://github.com/kepit/json.git", "e0923fb9df699f754dcaa35df5223943920bf7ad", []},
+  "jsx": {:hex, :jsx, "2.4.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.1"}}
